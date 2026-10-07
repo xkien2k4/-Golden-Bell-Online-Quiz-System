@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-main: #ffffff;
+    --card-bg: #ffffff;
+    --text-main: #000000;
+    --text-sub: #1e293b;
+    --border-ocean: #38bdf8;
+    --border-ocean-light: #bae6fd;
+    --ocean-primary: #0284c7;
+    --ocean-dark: #0369a1;
+    --ocean-light: #f0f9ff;
+    --btn-primary: #0284c7;
+  }
+
+  html, body {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  input, select, textarea, button {
+    font-size: 16px;
+  }
+
+  /* Universal high contrast readability */
+  h1, h2, h3, h4, h5, h6 {
+    color: #000000;
+  }
+
+  button:disabled {
+    cursor: not-allowed !important;
+  }
+
+  ::placeholder {
+    color: #475569 !important;
+    opacity: 1 !important;
+    font-weight: 500;
+  }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-6px); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: scale(0.98); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+.animate-float { animation: float 4s ease-in-out infinite; }
+.animate-fadeIn { animation: fadeIn 0.2s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+
+.pb-safe { padding-bottom: env(safe-area-inset-bottom, 16px); }
+.pt-safe { padding-top: env(safe-area-inset-top, 16px); }
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: #f0f9ff; }
+::-webkit-scrollbar-thumb { background: #38bdf8; border-radius: 9999px; }
+::-webkit-scrollbar-thumb:hover { background: #0284c7; }

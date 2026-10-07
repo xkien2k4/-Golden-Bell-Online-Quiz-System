@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Rung Chuông Vàng - Trường THPT 25-10",
+  "description": "Hệ thống thi trực tuyến Rung Chuông Vàng Trường THPT 25-10 - Chinh phục tri thức, Bứt phá giới hạn",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

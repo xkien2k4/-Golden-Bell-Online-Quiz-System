@@ -1,0 +1,2423 @@
+{
+  "comp-thpt-2510": {
+    "location": "Sân trường / Nhà thi đấu Đa năng THPT 25-10",
+    "winnerId": null,
+    "date": "2026-10-25",
+    "participants": [
+      {
+        "status": "ACTIVE",
+        "className": "10A1",
+        "lastSeenAt": 1790837500478,
+        "eliminatedAtQuestionIndex": null,
+        "isOnline": true,
+        "sessionId": "sess-1790837427769",
+        "id": "p-1790837427769-fypgt",
+        "name": "Nguyễn Vũ Xuân Kiên",
+        "joinedAt": 1790837427769,
+        "grade": "10",
+        "eliminatedAtQuestionOrder": null,
+        "studentCode": "SBD-01",
+        "violations": [
+          "Chuyển tab / rời ứng dụng lần 1"
+        ],
+        "totalCorrect": 0,
+        "totalResponseTimeMs": 0,
+        "totalWrong": 0
+      },
+      {
+        "lastSeenAt": 1790837464912,
+        "status": "ACTIVE",
+        "id": "p-1790837432667-a4llz",
+        "isOnline": false,
+        "className": "11A8",
+        "name": "Nguyễn thị sương",
+        "studentCode": "SBD-02",
+        "sessionId": "sess-1790837432667",
+        "eliminatedAtQuestionIndex": null,
+        "violations": [
+          "Chuyển tab / rời ứng dụng lần 1"
+        ],
+        "totalWrong": 0,
+        "eliminatedAtQuestionOrder": null,
+        "totalResponseTimeMs": 0,
+        "totalCorrect": 0,
+        "grade": "11",
+        "joinedAt": 1790837432667
+      }
+    ],
+    "updatedAt": 1790837507859,
+    "grades": [
+      "10",
+      "11",
+      "12"
+    ],
+    "questions": [
+      {
+        "isActive": true,
+        "explanation": "Ngày 25/10/1948 là ngày Thủy Nguyên quật khởi – ngọn cờ đầu chống giặc cứu nước kiên cường, trường THPT 25-10 vinh dự tự hào mang tên mốc son lịch sử này.",
+        "timeLimitSeconds": 15,
+        "gradeLevel": "ALL",
+        "subject": "Lịch sử & Truyền thống trường",
+        "order": 1,
+        "options": [
+          {
+            "id": "A",
+            "text": "Ngày tiếp quản thị xã Thủy Nguyên"
+          },
+          {
+            "id": "B",
+            "text": "Ngày truyền thống Thủy Nguyên quật khởi (25/10/1948)"
+          },
+          {
+            "text": "Ngày thành lập Chi bộ Đảng đầu tiên",
+            "id": "C"
+          },
+          {
+            "id": "D",
+            "text": "Ngày giải phóng hoàn toàn Hải Phòng"
+          }
+        ],
+        "id": "q1",
+        "correctAnswer": "B",
+        "type": "ABCD",
+        "prompt": "Trường THPT 25-10 mang tên gắn liền với ngày truyền thống lịch sử vẻ vang nào của quê hương Thủy Nguyên – Hải Phòng?"
+      },
+      {
+        "explanation": "Bài thơ \"Sóng\" được nữ thi sĩ Xuân Quỳnh sáng tác năm 1967 tại vùng biển Diêm Điền (Thái Bình), in trong tập \"Hoa dọc chiến hào\".",
+        "prompt": "Nhà thơ nào được mệnh danh là \"Nhà thơ của tình yêu\" và tác giả của bài thơ \"Sóng\" trong chương trình Ngữ Văn THPT?",
+        "options": [
+          {
+            "text": "Hàn Mặc Tử",
+            "id": "A"
+          },
+          {
+            "id": "B",
+            "text": "Xuân Diệu"
+          },
+          {
+            "id": "C",
+            "text": "Xuân Quỳnh"
+          },
+          {
+            "text": "Nguyễn Bính",
+            "id": "D"
+          }
+        ],
+        "subject": "Ngữ văn",
+        "correctAnswer": "C",
+        "isActive": true,
+        "timeLimitSeconds": 30,
+        "gradeLevel": "ALL",
+        "type": "ABCD",
+        "id": "q2",
+        "order": 2
+      },
+      {
+        "prompt": "Định luật vạn vật hấp dẫn được nhà bác học Isaac Newton công bố trong tác phẩm nổi tiếng \"Các nguyên lý toán học của triết học tự nhiên\". Khẳng định này Đúng hay Sai?",
+        "options": [
+          {
+            "id": "Đúng",
+            "text": "ĐÚNG"
+          },
+          {
+            "text": "SAI",
+            "id": "Sai"
+          }
+        ],
+        "correctAnswer": "Đúng",
+        "subject": "Vật lý",
+        "id": "q3",
+        "timeLimitSeconds": 15,
+        "explanation": "Đúng! Tác phẩm Philosophiae Naturalis Principia Mathematica (Principia) được xuất bản năm 1687 đặt nền móng cho cơ học cổ điển.",
+        "isActive": true,
+        "type": "TRUE_FALSE",
+        "order": 3,
+        "gradeLevel": "ALL"
+      },
+      {
+        "isActive": true,
+        "explanation": "Sao Thổ (Saturn) giữ kỷ lục với hơn 145 vệ tinh tự nhiên đã được IAU công nhận chính thức.",
+        "gradeLevel": "ALL",
+        "id": "q4",
+        "order": 4,
+        "timeLimitSeconds": 15,
+        "subject": "Thiên văn học",
+        "prompt": "Hành tinh nào trong Hệ Mặt Trời có số lượng vệ tinh tự nhiên được xác nhận nhiều nhất hiện nay?",
+        "type": "ABCD",
+        "options": [
+          {
+            "id": "A",
+            "text": "Sao Mộc (Jupiter)"
+          },
+          {
+            "id": "B",
+            "text": "Sao Thổ (Saturn)"
+          },
+          {
+            "id": "C",
+            "text": "Sao Hải Vương (Neptune)"
+          },
+          {
+            "text": "Sao Thiên Vương (Uranus)",
+            "id": "D"
+          }
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": "q5",
+        "subject": "Địa lý & Lịch sử",
+        "acceptedAnswers": [
+          "Ha Noi",
+          "hà nội",
+          "ha noi",
+          "HA NOI",
+          "Hà nội",
+          "Thủ đô Hà Nội",
+          "Thu do Ha Noi"
+        ],
+        "ignoreSpaces": false,
+        "prompt": "Hãy điền tên Thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam (trái tim của cả nước, nghìn năm văn hiến)?",
+        "order": 5,
+        "caseSensitive": false,
+        "type": "SHORT_ANSWER",
+        "correctAnswer": "Hà Nội",
+        "gradeLevel": "ALL",
+        "explanation": "Thủ đô Hà Nội là trung tâm chính trị, văn hóa, giáo dục và khoa học quan trọng của Việt Nam.",
+        "isActive": true,
+        "timeLimitSeconds": 20,
+        "ignoreDiacritics": true
+      },
+      {
+        "type": "NUMERIC",
+        "gradeLevel": "ALL",
+        "correctAnswer": "120",
+        "timeLimitSeconds": 15,
+        "acceptedAnswers": [
+          "120"
+        ],
+        "explanation": "Số chia hết cho 2 và 5 phải tận cùng bằng 0. Để nhỏ nhất có 3 chữ số khác nhau, chữ số hàng trăm là 1, hàng đơn vị là 0. Để chia hết cho 3, tổng các chữ số (1 + a + 0) chia hết cho 3 => a = 2. Vậy số đó là 120.",
+        "order": 6,
+        "isActive": true,
+        "prompt": "[CÂU HỎI PHỤ - TIEBREAKER] Số tự nhiên nhỏ nhất có ba chữ số khác nhau chia hết cho cả 2, 3 và 5 là số nào?",
+        "isTieBreaker": true,
+        "id": "q6",
+        "subject": "Toán học"
+      }
+    ],
+    "questionEndTime": 1790837453254,
+    "time": "08:00",
+    "roomCode": "RCV2510",
+    "status": "WAITING",
+    "schoolName": "TRƯỜNG THPT 25-10",
+    "id": "comp-thpt-2510",
+    "slogan": "Chinh phục tri thức – Bứt phá giới hạn",
+    "organizer": "ĐOÀN TRƯỜNG & BAN CHUYÊN MÔN THPT 25-10",
+    "logs": [
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790837453254,
+        "id": "log-1790837453254",
+        "action": "Khóa nhận đáp án câu 1"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790837440463,
+        "id": "log-1790837440463",
+        "action": "Bắt đầu đếm ngược 15s cho câu 1"
+      },
+      {
+        "id": "log-1790837432667",
+        "performedBy": "Hệ thống",
+        "action": "Thí sinh Nguyễn thị sương (11A8) tham gia phòng",
+        "timestamp": 1790837432667
+      },
+      {
+        "action": "Thí sinh Nguyễn Vũ Xuân Kiên (10A1) tham gia phòng",
+        "id": "log-1790837427769",
+        "performedBy": "Hệ thống",
+        "timestamp": 1790837427769
+      },
+      {
+        "action": "Thí sinh đã rời khỏi phòng thi: Nguyễn văn d (10A1)",
+        "performedBy": "Học sinh",
+        "id": "log-1790837348294",
+        "timestamp": 1790837348294
+      },
+      {
+        "timestamp": 1790837094215,
+        "action": "Thí sinh Nguyễn văn d (10A1) tham gia phòng",
+        "id": "log-1790837094215",
+        "performedBy": "Hệ thống"
+      },
+      {
+        "id": "log-1790835380282",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790835380282
+      },
+      {
+        "action": "Xóa toàn bộ danh sách thí sinh",
+        "id": "log-1790835156857",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790835156857
+      },
+      {
+        "timestamp": 1790835119443,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790835119443",
+        "action": "Khóa nhận đáp án câu 1"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 1",
+        "id": "log-1790835115587",
+        "timestamp": 1790835115587
+      },
+      {
+        "performedBy": "Hệ thống",
+        "id": "log-1790835111167",
+        "action": "Thí sinh Nguyễn Vũ Xuân Kiên (10A1) tham gia phòng",
+        "timestamp": 1790835111166
+      },
+      {
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "timestamp": 1790835103582,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790835103582"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790835099104,
+        "action": "Bắt đầu đếm ngược 15s cho câu 1",
+        "id": "log-1790835099104"
+      },
+      {
+        "timestamp": 1790835076815,
+        "id": "log-1790835076815",
+        "performedBy": "Hệ thống",
+        "action": "Thí sinh Nguyen van a (10A1) tham gia phòng"
+      },
+      {
+        "id": "log-1790835043485",
+        "timestamp": 1790835043485,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi"
+      },
+      {
+        "timestamp": 1790833090322,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790833090322",
+        "action": "Bắt đầu đếm ngược 15s cho câu 1"
+      },
+      {
+        "action": "Công bố đáp án câu 1: B. Loại 3 thí sinh trả lời sai/không trả lời.",
+        "timestamp": 1790832912802,
+        "id": "log-1790832912802",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790832909219,
+        "id": "log-1790832909219",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Khóa nhận đáp án câu 1"
+      },
+      {
+        "action": "Bắt đầu đếm ngược 15s cho câu 1",
+        "id": "log-1790832889179",
+        "timestamp": 1790832889179,
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790832884363,
+        "id": "log-1790832884363",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi"
+      },
+      {
+        "action": "Thí sinh Nguyễn văn c (10A1) tham gia phòng",
+        "timestamp": 1790832852298,
+        "id": "log-1790832852298",
+        "performedBy": "Hệ thống"
+      },
+      {
+        "timestamp": 1790832848613,
+        "action": "Thí sinh Xuân Kiên (10A1) tham gia phòng",
+        "id": "log-1790832848613",
+        "performedBy": "Hệ thống"
+      },
+      {
+        "performedBy": "Học sinh",
+        "id": "log-1790832846225",
+        "action": "Thí sinh đã rời khỏi phòng thi: Nguyễn văn c (11A6)",
+        "timestamp": 1790832846225
+      },
+      {
+        "id": "log-1790832843503",
+        "action": "Thí sinh đã rời khỏi phòng thi: Kiên (10A1)",
+        "performedBy": "Học sinh",
+        "timestamp": 1790832843503
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790832711901",
+        "action": "Chuyển sang câu hỏi số 5",
+        "timestamp": 1790832711901
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790832709340,
+        "id": "log-1790832709340",
+        "action": "Công bố đáp án câu 4: B. Loại 0 thí sinh trả lời sai/không trả lời."
+      },
+      {
+        "action": "Bắt đầu đếm ngược 15s cho câu 4",
+        "id": "log-1790832699480",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790832699480
+      },
+      {
+        "timestamp": 1790832695460,
+        "id": "log-1790832695460",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Thực hiện cứu trợ: 3 thí sinh quay lại sàn thi đấu"
+      },
+      {
+        "action": "Chuyển sang câu hỏi số 4",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790832690088",
+        "timestamp": 1790832690088
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 3",
+        "timestamp": 1790832683720,
+        "id": "log-1790832683720"
+      },
+      {
+        "action": "Chuyển sang câu hỏi số 3",
+        "timestamp": 1790832678600,
+        "id": "log-1790832678600",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "id": "log-1790832674280",
+        "action": "Chuyển sang câu hỏi số 2",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790832674280
+      },
+      {
+        "timestamp": 1790832667228,
+        "action": "Công bố đáp án câu 1: B. Loại 3 thí sinh trả lời sai/không trả lời.",
+        "id": "log-1790832667228",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790832663319,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Khóa nhận đáp án câu 1",
+        "id": "log-1790832663319"
+      },
+      {
+        "id": "log-1790832655831",
+        "timestamp": 1790832655831,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 1"
+      },
+      {
+        "performedBy": "Hệ thống",
+        "action": "Thí sinh Nguyễn văn c (11A6) tham gia phòng",
+        "timestamp": 1790832325408,
+        "id": "log-1790832325408"
+      },
+      {
+        "id": "log-1790832271019",
+        "timestamp": 1790832271019,
+        "performedBy": "Hệ thống",
+        "action": "Thí sinh Kiên (10A1) tham gia phòng"
+      },
+      {
+        "performedBy": "Học sinh",
+        "action": "Thí sinh đã rời khỏi phòng thi: Kiên (10A6)",
+        "timestamp": 1790832265159,
+        "id": "log-1790832265159"
+      },
+      {
+        "action": "Thí sinh Kiên (10A6) tham gia phòng",
+        "timestamp": 1790832227559,
+        "performedBy": "Hệ thống",
+        "id": "log-1790832227559"
+      },
+      {
+        "id": "log-1790832220662",
+        "performedBy": "Học sinh",
+        "timestamp": 1790832220662,
+        "action": "Thí sinh đã rời khỏi phòng thi: Nguyễn Vũ Xuân Kiên (10A1)"
+      },
+      {
+        "id": "log-1790832121450",
+        "action": "Thí sinh Nguyễn Vũ Xuân Kiên (10A1) tham gia phòng",
+        "performedBy": "Hệ thống",
+        "timestamp": 1790832121450
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790828841216",
+        "timestamp": 1790828841216,
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790828824838",
+        "timestamp": 1790828824838,
+        "action": "Bắt đầu đếm ngược 15s cho câu 1"
+      },
+      {
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "id": "log-1790826418461",
+        "timestamp": 1790826418461,
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790826414970,
+        "action": "Bắt đầu đếm ngược 15s cho câu 1",
+        "id": "log-1790826414970",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "id": "log-1790826356106",
+        "timestamp": 1790826356106,
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "id": "log-1790826352911",
+        "timestamp": 1790826352911,
+        "action": "Khóa nhận đáp án câu 1",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "id": "log-1790826347743",
+        "timestamp": 1790826347743,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 1"
+      },
+      {
+        "action": "Thí sinh Nguyễn văn a (10A1) tham gia phòng",
+        "timestamp": 1790826342525,
+        "performedBy": "Hệ thống",
+        "id": "log-1790826342525"
+      },
+      {
+        "id": "log-1790826321993",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "timestamp": 1790826321993
+      },
+      {
+        "timestamp": 1790826286336,
+        "id": "log-1790826286336",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 1"
+      },
+      {
+        "id": "log-1790824736591",
+        "performedBy": "Học sinh",
+        "timestamp": 1790824736591,
+        "action": "Thí sinh đã rời khỏi phòng thi: Nguyễn thị b (10A7)"
+      },
+      {
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "timestamp": 1790824719656,
+        "id": "log-1790824719656",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "action": "Chuyển sang câu hỏi số 4",
+        "timestamp": 1790824715900,
+        "id": "log-1790824715900",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "action": "Tổng kết câu 3: 0 thí sinh bị loại",
+        "timestamp": 1790824715196,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790824715196"
+      },
+      {
+        "timestamp": 1790824713446,
+        "id": "log-1790824713446",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Công bố đáp án câu 3: Đúng. Loại 0 thí sinh trả lời sai/không trả lời."
+      },
+      {
+        "id": "log-1790824710868",
+        "timestamp": 1790824710868,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Khóa nhận đáp án câu 3"
+      },
+      {
+        "action": "Bắt đầu đếm ngược 15s cho câu 3",
+        "timestamp": 1790824708143,
+        "id": "log-1790824708143",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "action": "Thực hiện cứu trợ: 1 thí sinh quay lại sàn thi đấu",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790824704817,
+        "id": "log-1790824704817"
+      },
+      {
+        "timestamp": 1790824700780,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Chuyển sang câu hỏi số 3",
+        "id": "log-1790824700780"
+      },
+      {
+        "id": "log-1790824699256",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Công bố đáp án câu 2: C. Loại 0 thí sinh trả lời sai/không trả lời.",
+        "timestamp": 1790824699256
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790824697408",
+        "timestamp": 1790824697408,
+        "action": "Khóa nhận đáp án câu 2"
+      },
+      {
+        "timestamp": 1790824694232,
+        "id": "log-1790824694232",
+        "action": "Bắt đầu đếm ngược 30s cho câu 2",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790824688585,
+        "id": "log-1790824688585",
+        "action": "Chuyển sang câu hỏi số 2",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790824685945",
+        "timestamp": 1790824685945,
+        "action": "Công bố đáp án câu 1: B. Loại 1 thí sinh trả lời sai/không trả lời."
+      },
+      {
+        "id": "log-1790824684846",
+        "action": "Khóa nhận đáp án câu 1",
+        "timestamp": 1790824684846,
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790824678044,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790824678044",
+        "action": "Bắt đầu đếm ngược 15s cho câu 1"
+      },
+      {
+        "id": "log-1790824673698",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "timestamp": 1790824673698
+      },
+      {
+        "id": "log-1790824639428",
+        "action": "Thí sinh Nguyễn thị b (10A7) tham gia phòng",
+        "performedBy": "Hệ thống",
+        "timestamp": 1790824639427
+      },
+      {
+        "performedBy": "Học sinh",
+        "id": "log-1790824620366",
+        "timestamp": 1790824620366,
+        "action": "Thí sinh đã rời khỏi phòng thi: Nguyễn văn b (10A6)"
+      },
+      {
+        "id": "log-1790824614514",
+        "performedBy": "Hệ thống",
+        "action": "Thí sinh Nguyễn văn b (10A6) tham gia phòng",
+        "timestamp": 1790824614514
+      },
+      {
+        "id": "log-1790824589545",
+        "timestamp": 1790824589545,
+        "action": "Thí sinh đã rời khỏi phòng thi: Nguyễn văn a (10A14)",
+        "performedBy": "Học sinh"
+      },
+      {
+        "timestamp": 1790823881076,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "id": "log-1790823881076"
+      },
+      {
+        "timestamp": 1790823575992,
+        "id": "log-1790823575992",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 3"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790823571793",
+        "action": "Thực hiện cứu trợ: 1 thí sinh quay lại sàn thi đấu",
+        "timestamp": 1790823571793
+      },
+      {
+        "timestamp": 1790823567046,
+        "id": "log-1790823567046",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Chuyển sang câu hỏi số 3"
+      },
+      {
+        "id": "log-1790823564624",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790823564624,
+        "action": "Công bố đáp án câu 2: C. Loại 0 thí sinh trả lời sai/không trả lời."
+      },
+      {
+        "id": "log-1790823563746",
+        "timestamp": 1790823563746,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Khóa nhận đáp án câu 2"
+      },
+      {
+        "timestamp": 1790823558869,
+        "action": "Bắt đầu đếm ngược 15s cho câu 2",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790823558869"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790823555578,
+        "action": "Chuyển sang câu hỏi số 2",
+        "id": "log-1790823555578"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790823552186,
+        "action": "Tổng kết câu 1: 0 thí sinh bị loại",
+        "id": "log-1790823552186"
+      },
+      {
+        "id": "log-1790823549773",
+        "action": "Công bố đáp án câu 1: B. Loại 1 thí sinh trả lời sai/không trả lời.",
+        "timestamp": 1790823549773,
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Khóa nhận đáp án câu 1",
+        "timestamp": 1790823547060,
+        "id": "log-1790823547060"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790823541486,
+        "id": "log-1790823541486",
+        "action": "Bắt đầu đếm ngược 15s cho câu 1"
+      },
+      {
+        "timestamp": 1790823533188,
+        "performedBy": "Hệ thống",
+        "id": "log-1790823533188",
+        "action": "Thí sinh Nguyễn văn a (10A14) tham gia phòng"
+      },
+      {
+        "performedBy": "Học sinh",
+        "action": "Thí sinh đã rời khỏi phòng thi: Nguyễn văn a (10A1)",
+        "timestamp": 1790823231121,
+        "id": "log-1790823231121"
+      },
+      {
+        "id": "log-1790823219711",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "timestamp": 1790823219711
+      },
+      {
+        "id": "log-1790823214792",
+        "action": "Thực hiện cứu trợ: 1 thí sinh quay lại sàn thi đấu",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790823214792
+      },
+      {
+        "id": "log-1790823210749",
+        "timestamp": 1790823210749,
+        "action": "Chuyển sang câu hỏi số 4",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "action": "Khóa nhận đáp án câu 3",
+        "timestamp": 1790823209276,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790823209276"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 3",
+        "id": "log-1790823204217",
+        "timestamp": 1790823204217
+      },
+      {
+        "timestamp": 1790823202175,
+        "id": "log-1790823202175",
+        "action": "Chuyển sang câu hỏi số 3",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "id": "log-1790823198984",
+        "action": "Chuyển sang câu hỏi số 2",
+        "timestamp": 1790823198984,
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "id": "log-1790823197373",
+        "timestamp": 1790823197373,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Tổng kết câu 1: 0 thí sinh bị loại"
+      },
+      {
+        "timestamp": 1790823194944,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790823194944",
+        "action": "Công bố đáp án câu 1: B. Loại 1 thí sinh trả lời sai/không trả lời."
+      },
+      {
+        "action": "Khóa nhận đáp án câu 1",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790823192753,
+        "id": "log-1790823192753"
+      },
+      {
+        "action": "Bắt đầu đếm ngược 15s cho câu 1",
+        "timestamp": 1790823185905,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790823185905"
+      },
+      {
+        "action": "Thí sinh Nguyễn văn a (10A1) tham gia phòng",
+        "timestamp": 1790823168129,
+        "id": "log-1790823168130",
+        "performedBy": "Hệ thống"
+      },
+      {
+        "timestamp": 1790822451975,
+        "action": "Thí sinh đã rời khỏi phòng thi: Nguyễn văn a (10A1)",
+        "performedBy": "Học sinh",
+        "id": "log-1790822451975"
+      },
+      {
+        "id": "log-1790822042762",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790822042762
+      },
+      {
+        "id": "log-1790822042580",
+        "timestamp": 1790822042580,
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790822041893,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790822041893",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi"
+      },
+      {
+        "timestamp": 1790822041772,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "id": "log-1790822041772"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "timestamp": 1790822037029,
+        "id": "log-1790822037029"
+      },
+      {
+        "id": "log-1790822013611",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790822013611
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "id": "log-1790822012385",
+        "timestamp": 1790822012385
+      },
+      {
+        "timestamp": 1790822005171,
+        "id": "log-1790822005171",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790821772606",
+        "action": "Chuyển chế độ vinh danh: Bảng Vàng Top 5",
+        "timestamp": 1790821772606
+      },
+      {
+        "id": "log-1790821768326",
+        "action": "Chuyển chế độ vinh danh: Bục Vinh Quang Top 3",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790821768326
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790821765873,
+        "action": "Chuyển chế độ vinh danh: Quán Quân (Rung Chuông Vàng)",
+        "id": "log-1790821765873"
+      },
+      {
+        "timestamp": 1790821762183,
+        "id": "log-1790821762183",
+        "action": "Tổng kết câu 6: 0 thí sinh bị loại",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790821758725",
+        "action": "Công bố đáp án câu 6: 120. Loại 0 thí sinh trả lời sai/không trả lời.",
+        "timestamp": 1790821758725
+      },
+      {
+        "id": "log-1790821757528",
+        "timestamp": 1790821757528,
+        "action": "Khóa nhận đáp án câu 6",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790821691776,
+        "id": "log-1790821691776",
+        "action": "Bắt đầu đếm ngược 15s cho câu 6"
+      },
+      {
+        "timestamp": 1790762704515,
+        "action": "RUNG CHUÔNG VÀNG! Công bố thí sinh xuất sắc nhất!",
+        "id": "log-1790762704515",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "action": "RUNG CHUÔNG VÀNG! Công bố thí sinh xuất sắc nhất!",
+        "id": "log-1790762704350",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790762704350
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790762704199",
+        "timestamp": 1790762704199,
+        "action": "RUNG CHUÔNG VÀNG! Công bố thí sinh xuất sắc nhất!"
+      },
+      {
+        "action": "RUNG CHUÔNG VÀNG! Công bố thí sinh xuất sắc nhất!",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790762704037",
+        "timestamp": 1790762704037
+      },
+      {
+        "id": "log-1790762703869",
+        "timestamp": 1790762703869,
+        "performedBy": "Ban Tổ Chức",
+        "action": "RUNG CHUÔNG VÀNG! Công bố thí sinh xuất sắc nhất!"
+      },
+      {
+        "timestamp": 1790762703523,
+        "performedBy": "Ban Tổ Chức",
+        "action": "RUNG CHUÔNG VÀNG! Công bố thí sinh xuất sắc nhất!",
+        "id": "log-1790762703523"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790762703349",
+        "action": "RUNG CHUÔNG VÀNG! Công bố thí sinh xuất sắc nhất!",
+        "timestamp": 1790762703349
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790762703183,
+        "id": "log-1790762703183",
+        "action": "RUNG CHUÔNG VÀNG! Công bố thí sinh xuất sắc nhất!"
+      },
+      {
+        "timestamp": 1790762703014,
+        "performedBy": "Ban Tổ Chức",
+        "action": "RUNG CHUÔNG VÀNG! Công bố thí sinh xuất sắc nhất!",
+        "id": "log-1790762703014"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "RUNG CHUÔNG VÀNG! Công bố thí sinh xuất sắc nhất!",
+        "timestamp": 1790762702849,
+        "id": "log-1790762702849"
+      },
+      {
+        "timestamp": 1790762702682,
+        "id": "log-1790762702682",
+        "action": "RUNG CHUÔNG VÀNG! Công bố thí sinh xuất sắc nhất!",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790762702008,
+        "id": "log-1790762702008",
+        "performedBy": "Ban Tổ Chức",
+        "action": "RUNG CHUÔNG VÀNG! Công bố thí sinh xuất sắc nhất!"
+      },
+      {
+        "timestamp": 1790762700715,
+        "id": "log-1790762700715",
+        "action": "RUNG CHUÔNG VÀNG! Công bố thí sinh xuất sắc nhất!",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "action": "RUNG CHUÔNG VÀNG! Công bố thí sinh xuất sắc nhất!",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790762440794,
+        "id": "log-1790762440794"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790762440255,
+        "id": "log-1790762440255",
+        "action": "RUNG CHUÔNG VÀNG! Công bố thí sinh xuất sắc nhất!"
+      },
+      {
+        "timestamp": 1790762207976,
+        "performedBy": "Ban Tổ Chức",
+        "action": "RUNG CHUÔNG VÀNG! Công bố thí sinh xuất sắc nhất!",
+        "id": "log-1790762207976"
+      },
+      {
+        "id": "log-1790762204054",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790762204054,
+        "action": "Tổng kết câu 6: 0 thí sinh bị loại"
+      },
+      {
+        "id": "log-1790762197214",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790762197214,
+        "action": "Công bố đáp án câu 6: 120. Loại 0 thí sinh trả lời sai/không trả lời."
+      },
+      {
+        "action": "Khóa nhận đáp án câu 6",
+        "id": "log-1790762195448",
+        "timestamp": 1790762195448,
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "id": "log-1790762190605",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 6",
+        "timestamp": 1790762190605
+      },
+      {
+        "action": "Chuyển sang câu hỏi số 6",
+        "id": "log-1790762186264",
+        "timestamp": 1790762186264,
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "action": "Công bố đáp án câu 5: Hà Nội. Loại 0 thí sinh trả lời sai/không trả lời.",
+        "id": "log-1790762182163",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790762182163
+      },
+      {
+        "id": "log-1790762181239",
+        "timestamp": 1790762181239,
+        "action": "Khóa nhận đáp án câu 5",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "id": "log-1790762167397",
+        "timestamp": 1790762167397,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 20s cho câu 5"
+      },
+      {
+        "id": "log-1790762162074",
+        "action": "Chuyển sang câu hỏi số 5",
+        "timestamp": 1790762162074,
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "id": "log-1790762160416",
+        "timestamp": 1790762160416,
+        "action": "Tổng kết câu 4: 0 thí sinh bị loại",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790762159324,
+        "action": "Công bố đáp án câu 4: B. Loại 0 thí sinh trả lời sai/không trả lời.",
+        "id": "log-1790762159324",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "action": "Khóa nhận đáp án câu 4",
+        "timestamp": 1790762158325,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790762158325"
+      },
+      {
+        "action": "Bắt đầu đếm ngược 15s cho câu 4",
+        "timestamp": 1790762154798,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790762154798"
+      },
+      {
+        "id": "log-1790762151564",
+        "action": "Chuyển sang câu hỏi số 4",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790762151564
+      },
+      {
+        "timestamp": 1790762149379,
+        "id": "log-1790762149379",
+        "action": "Công bố đáp án câu 3: Đúng. Loại 0 thí sinh trả lời sai/không trả lời.",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Khóa nhận đáp án câu 3",
+        "id": "log-1790762148475",
+        "timestamp": 1790762148475
+      },
+      {
+        "action": "Bắt đầu đếm ngược 15s cho câu 3",
+        "timestamp": 1790762142711,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790762142711"
+      },
+      {
+        "action": "Chuyển sang câu hỏi số 3",
+        "timestamp": 1790762141072,
+        "id": "log-1790762141072",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790762139156,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790762139156",
+        "action": "Công bố đáp án câu 2: C. Loại 0 thí sinh trả lời sai/không trả lời."
+      },
+      {
+        "id": "log-1790762138109",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790762138109,
+        "action": "Khóa nhận đáp án câu 2"
+      },
+      {
+        "id": "log-1790762131893",
+        "timestamp": 1790762131893,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 2"
+      },
+      {
+        "action": "Chuyển sang câu hỏi số 2",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790762129229",
+        "timestamp": 1790762129229
+      },
+      {
+        "timestamp": 1790762128675,
+        "id": "log-1790762128675",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Tổng kết câu 1: 0 thí sinh bị loại"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790762126638,
+        "id": "log-1790762126638",
+        "action": "Công bố đáp án câu 1: B. Loại 0 thí sinh trả lời sai/không trả lời."
+      },
+      {
+        "timestamp": 1790762124427,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790762124427",
+        "action": "Khóa nhận đáp án câu 1"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790762116007,
+        "action": "Bắt đầu đếm ngược 15s cho câu 1",
+        "id": "log-1790762116007"
+      },
+      {
+        "timestamp": 1790762114979,
+        "id": "log-1790762114979",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "id": "log-1790762102568",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Chuyển sang câu hỏi số 2",
+        "timestamp": 1790762102568
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790762101648",
+        "timestamp": 1790762101648,
+        "action": "Tổng kết câu 1: 0 thí sinh bị loại"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790762099443,
+        "action": "Công bố đáp án câu 1: B. Loại 1 thí sinh trả lời sai/không trả lời.",
+        "id": "log-1790762099443"
+      },
+      {
+        "id": "log-1790762098455",
+        "timestamp": 1790762098455,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Khóa nhận đáp án câu 1"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790762093073,
+        "id": "log-1790762093073",
+        "action": "Bắt đầu đếm ngược 15s cho câu 1"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790762088458,
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "id": "log-1790762088458"
+      },
+      {
+        "timestamp": 1790762071193,
+        "id": "log-1790762071193",
+        "action": "Chuyển sang câu hỏi số 4",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790762067770,
+        "id": "log-1790762067770",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Chuyển sang câu hỏi số 3"
+      },
+      {
+        "timestamp": 1790762066250,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790762066250",
+        "action": "Công bố đáp án câu 2: C. Loại 1 thí sinh trả lời sai/không trả lời."
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790762065544,
+        "id": "log-1790762065544",
+        "action": "Khóa nhận đáp án câu 2"
+      },
+      {
+        "timestamp": 1790762060064,
+        "id": "log-1790762060064",
+        "action": "Bắt đầu đếm ngược 15s cho câu 2",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "id": "log-1790762042557",
+        "action": "Chuyển sang câu hỏi số 2",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790762042557
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Tổng kết câu 1: 0 thí sinh bị loại",
+        "timestamp": 1790762041773,
+        "id": "log-1790762041773"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790762041614",
+        "timestamp": 1790762041614,
+        "action": "Tổng kết câu 1: 0 thí sinh bị loại"
+      },
+      {
+        "action": "Công bố đáp án câu 1: B. Loại 0 thí sinh trả lời sai/không trả lời.",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790762039256",
+        "timestamp": 1790762039256
+      },
+      {
+        "action": "Khóa nhận đáp án câu 1",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790762037690,
+        "id": "log-1790762037690"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790762029756",
+        "action": "Bắt đầu đếm ngược 15s cho câu 1",
+        "timestamp": 1790762029756
+      },
+      {
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "timestamp": 1790762021363,
+        "id": "log-1790762021363",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "id": "log-1790761974187",
+        "performedBy": "Hệ thống",
+        "action": "Thí sinh Nguyễn văn a (10A1) tham gia phòng",
+        "timestamp": 1790761974187
+      },
+      {
+        "performedBy": "Học sinh",
+        "action": "Thí sinh đã rời khỏi phòng thi: Nguyễn văn b (10A1)",
+        "id": "log-1790761953609",
+        "timestamp": 1790761953609
+      },
+      {
+        "timestamp": 1790761900334,
+        "action": "Thí sinh đã rời khỏi phòng thi: Trần Thị Tám (12A8)",
+        "performedBy": "Học sinh",
+        "id": "log-1790761900334"
+      },
+      {
+        "timestamp": 1790761900329,
+        "performedBy": "Học sinh",
+        "id": "log-1790761900329",
+        "action": "Thí sinh đã rời khỏi phòng thi: Nguyễn Văn Mười Bốn (10A14)"
+      },
+      {
+        "action": "Thí sinh Trần Thị Tám (12A8) tham gia phòng",
+        "timestamp": 1790761900321,
+        "id": "log-1790761900321",
+        "performedBy": "Hệ thống"
+      },
+      {
+        "timestamp": 1790761900303,
+        "action": "Thí sinh Nguyễn Văn Mười Bốn (10A14) tham gia phòng",
+        "performedBy": "Hệ thống",
+        "id": "log-1790761900303"
+      },
+      {
+        "timestamp": 1790761522212,
+        "action": "Chuyển sang câu hỏi số 6",
+        "id": "log-1790761522212",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790761504327",
+        "timestamp": 1790761504327,
+        "action": "Công bố đáp án câu 5: Hà Nội. Loại 0 thí sinh trả lời sai/không trả lời."
+      },
+      {
+        "id": "log-1790761503627",
+        "timestamp": 1790761503627,
+        "action": "Khóa nhận đáp án câu 5",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "id": "log-1790761492629",
+        "timestamp": 1790761492629,
+        "action": "Bắt đầu đếm ngược 20s cho câu 5",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Thực hiện cứu trợ: 1 thí sinh quay lại sàn thi đấu",
+        "timestamp": 1790761478697,
+        "id": "log-1790761478697"
+      },
+      {
+        "id": "log-1790761474821",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790761474821,
+        "action": "Chuyển sang câu hỏi số 5"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Công bố đáp án câu 4: B. Loại 0 thí sinh trả lời sai/không trả lời.",
+        "timestamp": 1790761473088,
+        "id": "log-1790761473088"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790761470343",
+        "timestamp": 1790761470343,
+        "action": "Khóa nhận đáp án câu 4"
+      },
+      {
+        "timestamp": 1790761466228,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 4",
+        "id": "log-1790761466228"
+      },
+      {
+        "id": "log-1790761463210",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Chuyển sang câu hỏi số 4",
+        "timestamp": 1790761463210
+      },
+      {
+        "id": "log-1790761462438",
+        "action": "Tổng kết câu 3: 0 thí sinh bị loại",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790761462438
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790761455540",
+        "timestamp": 1790761455540,
+        "action": "Công bố đáp án câu 3: Đúng. Loại 0 thí sinh trả lời sai/không trả lời."
+      },
+      {
+        "timestamp": 1790761452187,
+        "id": "log-1790761452187",
+        "action": "Khóa nhận đáp án câu 3",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "action": "Bắt đầu đếm ngược 15s cho câu 3",
+        "id": "log-1790761435738",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790761435738
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790761429666,
+        "id": "log-1790761429666",
+        "action": "Thực hiện cứu trợ: 1 thí sinh quay lại sàn thi đấu"
+      },
+      {
+        "timestamp": 1790761424403,
+        "action": "Chuyển sang câu hỏi số 3",
+        "id": "log-1790761424403",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790761423025,
+        "id": "log-1790761423025",
+        "action": "Tổng kết câu 2: 0 thí sinh bị loại"
+      },
+      {
+        "timestamp": 1790761419798,
+        "id": "log-1790761419798",
+        "action": "Công bố đáp án câu 2: C. Loại 0 thí sinh trả lời sai/không trả lời.",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790761418611,
+        "id": "log-1790761418611",
+        "action": "Khóa nhận đáp án câu 2"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 2",
+        "timestamp": 1790761415159,
+        "id": "log-1790761415159"
+      },
+      {
+        "id": "log-1790761411386",
+        "action": "Chuyển sang câu hỏi số 2",
+        "timestamp": 1790761411386,
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790761410639,
+        "id": "log-1790761410639",
+        "action": "Tổng kết câu 1: 0 thí sinh bị loại",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "action": "Tổng kết câu 1: 0 thí sinh bị loại",
+        "timestamp": 1790761409829,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790761409829"
+      },
+      {
+        "id": "log-1790761405031",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790761405031,
+        "action": "Công bố đáp án câu 1: B. Loại 1 thí sinh trả lời sai/không trả lời."
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790761401849",
+        "timestamp": 1790761401849,
+        "action": "Khóa nhận đáp án câu 1"
+      },
+      {
+        "action": "Bắt đầu đếm ngược 15s cho câu 1",
+        "timestamp": 1790761385325,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790761385325"
+      },
+      {
+        "timestamp": 1790761378730,
+        "performedBy": "Hệ thống",
+        "id": "log-1790761378730",
+        "action": "Thí sinh Nguyễn văn b (10A1) tham gia phòng"
+      },
+      {
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "id": "log-1790761338167",
+        "timestamp": 1790761338167,
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "performedBy": "Học sinh",
+        "action": "Thí sinh đã rời khỏi phòng thi: Nguyễn Cứu Trợ (11B2)",
+        "id": "log-1790761338160",
+        "timestamp": 1790761338160
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790761338144",
+        "timestamp": 1790761338144,
+        "action": "Bắt đầu đếm ngược 15s cho câu 2"
+      },
+      {
+        "action": "Chuyển sang câu hỏi số 2",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790761338128,
+        "id": "log-1790761338128"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790761338113",
+        "action": "Thực hiện cứu trợ: 1 thí sinh quay lại sàn thi đấu",
+        "timestamp": 1790761338113
+      },
+      {
+        "timestamp": 1790761338095,
+        "id": "log-1790761338095",
+        "action": "Bắt đầu đếm ngược 15s cho câu 1",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "id": "log-1790761338085",
+        "action": "Thí sinh Nguyễn Cứu Trợ (11B2) tham gia phòng",
+        "performedBy": "Hệ thống",
+        "timestamp": 1790761338085
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790761338068,
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "id": "log-1790761338068"
+      },
+      {
+        "id": "log-1790761256601",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790761256601,
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi"
+      },
+      {
+        "timestamp": 1790761256596,
+        "performedBy": "Học sinh",
+        "id": "log-1790761256596",
+        "action": "Thí sinh đã rời khỏi phòng thi: Nguyễn Cứu Trợ (11B2)"
+      },
+      {
+        "timestamp": 1790761256578,
+        "id": "log-1790761256578",
+        "action": "Bắt đầu đếm ngược 15s cho câu 2",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "action": "Chuyển sang câu hỏi số 2",
+        "id": "log-1790761256571",
+        "timestamp": 1790761256571,
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790761256562,
+        "action": "Thực hiện cứu trợ: 1 thí sinh quay lại sàn thi đấu",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790761256562"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790761256539",
+        "timestamp": 1790761256539,
+        "action": "Bắt đầu đếm ngược 15s cho câu 1"
+      },
+      {
+        "performedBy": "Hệ thống",
+        "action": "Thí sinh Nguyễn Cứu Trợ (11B2) tham gia phòng",
+        "id": "log-1790761256524",
+        "timestamp": 1790761256524
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790761256508,
+        "id": "log-1790761256508",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi"
+      },
+      {
+        "action": "Thực hiện cứu trợ: 0 thí sinh quay lại sàn thi đấu",
+        "id": "log-1790761161346",
+        "timestamp": 1790761161346,
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790761068923",
+        "timestamp": 1790761068923,
+        "action": "Công bố đáp án câu 2: C. Loại 0 thí sinh trả lời sai/không trả lời."
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790761067702,
+        "id": "log-1790761067702",
+        "action": "Khóa nhận đáp án câu 2"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790761052111",
+        "timestamp": 1790761052111,
+        "action": "Bắt đầu đếm ngược 15s cho câu 2"
+      },
+      {
+        "id": "log-1790761048735",
+        "timestamp": 1790761048735,
+        "action": "Chuyển sang câu hỏi số 2",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "id": "log-1790761047853",
+        "action": "Tổng kết câu 1: 0 thí sinh bị loại",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790761047853
+      },
+      {
+        "timestamp": 1790761045154,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790761045154",
+        "action": "Tổng kết câu 1: 0 thí sinh bị loại"
+      },
+      {
+        "id": "log-1790761040789",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790761040789,
+        "action": "Công bố đáp án câu 1: B. Loại 0 thí sinh trả lời sai/không trả lời."
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790761039666,
+        "id": "log-1790761039666",
+        "action": "Khóa nhận đáp án câu 1"
+      },
+      {
+        "timestamp": 1790761023158,
+        "action": "Bắt đầu đếm ngược 15s cho câu 1",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790761023158"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790761021148",
+        "timestamp": 1790761021148,
+        "action": "Khóa nhận đáp án câu 1"
+      },
+      {
+        "performedBy": "Học sinh",
+        "id": "log-1790760815225",
+        "action": "Thí sinh đã rời khỏi phòng thi: Nguyễn Văn A (10A1)",
+        "timestamp": 1790760815225
+      },
+      {
+        "action": "Thí sinh Nguyễn Văn A (10A1) tham gia phòng",
+        "id": "log-1790760815197",
+        "timestamp": 1790760815197,
+        "performedBy": "Hệ thống"
+      },
+      {
+        "timestamp": 1790760815168,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790760815168",
+        "action": "Xóa toàn bộ danh sách thí sinh"
+      },
+      {
+        "timestamp": 1790760796875,
+        "id": "log-1790760796875",
+        "performedBy": "Học sinh",
+        "action": "Thí sinh thoát app / rời phòng thi: Nguyễn Văn A (10A1)"
+      },
+      {
+        "timestamp": 1790760796842,
+        "performedBy": "Hệ thống",
+        "id": "log-1790760796842",
+        "action": "Thí sinh Nguyễn Văn A (10A1) tham gia phòng"
+      },
+      {
+        "action": "Bắt đầu đếm ngược 15s cho câu 1",
+        "timestamp": 1790760792102,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790760792102"
+      },
+      {
+        "id": "log-1790760788952",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790760788952,
+        "action": "Xóa toàn bộ danh sách thí sinh"
+      },
+      {
+        "id": "log-1790760788938",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790760788938
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790760788357,
+        "action": "Chuyển sang câu hỏi số 5",
+        "id": "log-1790760788357"
+      },
+      {
+        "id": "log-1790760786941",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Tổng kết câu 4: 0 thí sinh bị loại",
+        "timestamp": 1790760786941
+      },
+      {
+        "action": "Công bố đáp án câu 4: B. Loại 0 thí sinh trả lời sai/không trả lời.",
+        "id": "log-1790760783841",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790760783841
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790760771073,
+        "id": "log-1790760771073",
+        "action": "Tổng kết câu 4: 0 thí sinh bị loại"
+      },
+      {
+        "id": "log-1790760768941",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Công bố đáp án câu 4: B. Loại 2 thí sinh trả lời sai/không trả lời.",
+        "timestamp": 1790760768941
+      },
+      {
+        "id": "log-1790760767257",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790760767257,
+        "action": "Khóa nhận đáp án câu 4"
+      },
+      {
+        "action": "Bắt đầu đếm ngược 15s cho câu 4",
+        "id": "log-1790760757002",
+        "timestamp": 1790760757002,
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790760753451,
+        "id": "log-1790760753451",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Thực hiện cứu trợ: 2 thí sinh quay lại sàn thi đấu"
+      },
+      {
+        "action": "Chuyển sang câu hỏi số 4",
+        "timestamp": 1790760741832,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790760741832"
+      },
+      {
+        "id": "log-1790760732906",
+        "action": "Thí sinh thoát app / rời phòng thi: Nguyễn Văn B (10A2)",
+        "timestamp": 1790760732906,
+        "performedBy": "Học sinh"
+      },
+      {
+        "action": "Thí sinh Nguyễn Văn B (10A2) tham gia phòng",
+        "performedBy": "Hệ thống",
+        "timestamp": 1790760732892,
+        "id": "log-1790760732892"
+      },
+      {
+        "timestamp": 1790760732879,
+        "performedBy": "Học sinh",
+        "action": "Thí sinh thoát app / rời phòng thi: Nguyễn Văn A (10A1)",
+        "id": "log-1790760732879"
+      },
+      {
+        "timestamp": 1790760732857,
+        "action": "Thí sinh Nguyễn Văn A (10A1) tham gia phòng",
+        "performedBy": "Hệ thống",
+        "id": "log-1790760732857"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Công bố đáp án câu 3: Đúng. Loại 0 thí sinh trả lời sai/không trả lời.",
+        "timestamp": 1790760723766,
+        "id": "log-1790760723766"
+      },
+      {
+        "action": "Bắt đầu đếm ngược 15s cho câu 3",
+        "id": "log-1790760679823",
+        "timestamp": 1790760679823,
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790760675283,
+        "id": "log-1790760675283",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Thực hiện cứu trợ: 0 thí sinh quay lại sàn thi đấu"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790760672233",
+        "action": "Khóa nhận đáp án câu 3",
+        "timestamp": 1790760672233
+      },
+      {
+        "action": "Thực hiện cứu trợ: 0 thí sinh quay lại sàn thi đấu",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790760662656",
+        "timestamp": 1790760662656
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790760648374",
+        "timestamp": 1790760648374,
+        "action": "Thực hiện cứu trợ: 0 thí sinh quay lại sàn thi đấu"
+      },
+      {
+        "id": "log-1790760639807",
+        "timestamp": 1790760639807,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 3"
+      },
+      {
+        "action": "Chuyển sang câu hỏi số 3",
+        "timestamp": 1790760633554,
+        "id": "log-1790760633554",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "action": "Tổng kết câu 2: 0 thí sinh bị loại",
+        "id": "log-1790760630150",
+        "timestamp": 1790760630150,
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790760627764,
+        "action": "Công bố đáp án câu 2: C. Loại 0 thí sinh trả lời sai/không trả lời.",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790760627764"
+      },
+      {
+        "id": "log-1790760625801",
+        "action": "Khóa nhận đáp án câu 2",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790760625801
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 2",
+        "timestamp": 1790760621164,
+        "id": "log-1790760621164"
+      },
+      {
+        "action": "Chuyển sang câu hỏi số 2",
+        "timestamp": 1790760616621,
+        "id": "log-1790760616621",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "action": "Tổng kết câu 1: 0 thí sinh bị loại",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790760615566",
+        "timestamp": 1790760615566
+      },
+      {
+        "id": "log-1790760612133",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790760612133,
+        "action": "Công bố đáp án câu 1: B. Loại 0 thí sinh trả lời sai/không trả lời."
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790760609506,
+        "action": "Khóa nhận đáp án câu 1",
+        "id": "log-1790760609506"
+      },
+      {
+        "timestamp": 1790760532994,
+        "action": "Bắt đầu đếm ngược 15s cho câu 1",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790760532994"
+      },
+      {
+        "timestamp": 1790760038754,
+        "action": "Thực hiện cứu trợ: 0 thí sinh quay lại sàn thi đấu",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790760038754"
+      },
+      {
+        "action": "Xóa thí sinh: Nguyễn Thị Mai (10A1)",
+        "timestamp": 1790759950335,
+        "id": "log-1790759950335",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "action": "Thí sinh Nguyễn Thị Mai (10A1) tham gia phòng",
+        "performedBy": "Hệ thống",
+        "id": "log-1790759950308",
+        "timestamp": 1790759950308
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790759869587,
+        "id": "log-1790759869587",
+        "action": "Xóa toàn bộ danh sách thí sinh"
+      },
+      {
+        "id": "log-1790759572519",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790759572519
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Xóa thí sinh: Học sinh quên đáp án (10A1)",
+        "timestamp": 1790759572513,
+        "id": "log-1790759572513"
+      },
+      {
+        "id": "log-1790759572499",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Chuyển sang câu hỏi số 2",
+        "timestamp": 1790759572499
+      },
+      {
+        "id": "log-1790759572493",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790759572493,
+        "action": "Bắt đầu đếm ngược 15s cho câu 1"
+      },
+      {
+        "id": "log-1790759572484",
+        "action": "Thí sinh Học sinh quên đáp án (10A1) tham gia phòng",
+        "timestamp": 1790759572484,
+        "performedBy": "Hệ thống"
+      },
+      {
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "id": "log-1790759572469",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790759572469
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "timestamp": 1790759561560,
+        "id": "log-1790759561560"
+      },
+      {
+        "timestamp": 1790759561550,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790759561550",
+        "action": "Xóa thí sinh: Thí Sinh Test Loại (10A1)"
+      },
+      {
+        "action": "Bắt đầu đếm ngược 15s cho câu 2",
+        "id": "log-1790759561521",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790759561521
+      },
+      {
+        "action": "Chuyển sang câu hỏi số 2",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790759561515",
+        "timestamp": 1790759561515
+      },
+      {
+        "timestamp": 1790759561502,
+        "action": "Công bố đáp án câu 1: B. Loại 67 thí sinh trả lời sai/không trả lời.",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790759561502"
+      },
+      {
+        "id": "log-1790759561488",
+        "timestamp": 1790759561488,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 1"
+      },
+      {
+        "performedBy": "Hệ thống",
+        "id": "log-1790759561479",
+        "timestamp": 1790759561479,
+        "action": "Thí sinh Thí Sinh Test Loại (10A1) tham gia phòng"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "timestamp": 1790759561463,
+        "id": "log-1790759561463"
+      },
+      {
+        "timestamp": 1790759187311,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Tổng kết câu 6: 0 thí sinh bị loại",
+        "id": "log-1790759187311"
+      },
+      {
+        "timestamp": 1790759176534,
+        "id": "log-1790759176534",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Công bố đáp án câu 6: 120. Loại 0 thí sinh trả lời sai/không trả lời."
+      },
+      {
+        "id": "log-1790759174833",
+        "timestamp": 1790759174833,
+        "action": "Công bố đáp án câu 6: 120. Loại 0 thí sinh trả lời sai/không trả lời.",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "id": "log-1790759171920",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Khóa nhận đáp án câu 6",
+        "timestamp": 1790759171920
+      },
+      {
+        "id": "log-1790759170062",
+        "action": "Khóa nhận đáp án câu 6",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790759170062
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 6",
+        "id": "log-1790759149268",
+        "timestamp": 1790759149268
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 20s cho câu 6",
+        "id": "log-1790759147076",
+        "timestamp": 1790759147076
+      },
+      {
+        "id": "log-1790759125952",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790759125952,
+        "action": "Chuyển sang câu hỏi số 6"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790759123098,
+        "action": "Chuyển sang câu hỏi số 5",
+        "id": "log-1790759123098"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790759122011,
+        "id": "log-1790759122011",
+        "action": "Tổng kết câu 4: 0 thí sinh bị loại"
+      },
+      {
+        "action": "Công bố đáp án câu 4: B. Loại 0 thí sinh trả lời sai/không trả lời.",
+        "id": "log-1790759012151",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790759012151
+      },
+      {
+        "id": "log-1790759010666",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790759010666,
+        "action": "Công bố đáp án câu 4: B. Loại 0 thí sinh trả lời sai/không trả lời."
+      },
+      {
+        "action": "Khóa nhận đáp án câu 4",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790759006419,
+        "id": "log-1790759006419"
+      },
+      {
+        "action": "Khóa nhận đáp án câu 4",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790758996828",
+        "timestamp": 1790758996828
+      },
+      {
+        "id": "log-1790758993582",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 4",
+        "timestamp": 1790758993582
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 4",
+        "id": "log-1790758986645",
+        "timestamp": 1790758986645
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790758984273",
+        "timestamp": 1790758984273,
+        "action": "Chuyển sang câu hỏi số 4"
+      },
+      {
+        "timestamp": 1790758981259,
+        "id": "log-1790758981259",
+        "action": "Tổng kết câu 3: 0 thí sinh bị loại",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "action": "Công bố đáp án câu 3: Đúng. Loại 0 thí sinh trả lời sai/không trả lời.",
+        "timestamp": 1790758977991,
+        "id": "log-1790758977991",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790758976229,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Khóa nhận đáp án câu 3",
+        "id": "log-1790758976229"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 3",
+        "id": "log-1790758962299",
+        "timestamp": 1790758962299
+      },
+      {
+        "timestamp": 1790758958117,
+        "id": "log-1790758958117",
+        "action": "Bắt đầu đếm ngược 15s cho câu 3",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790758949606,
+        "action": "Chuyển sang câu hỏi số 3",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790758949606"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790758939986,
+        "action": "Chuyển sang câu hỏi số 2",
+        "id": "log-1790758939986"
+      },
+      {
+        "timestamp": 1790758936525,
+        "action": "Tổng kết câu 1: 0 thí sinh bị loại",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790758936525"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790758917660",
+        "timestamp": 1790758917660,
+        "action": "Công bố đáp án câu 1: B. Loại 0 thí sinh trả lời sai/không trả lời."
+      },
+      {
+        "id": "log-1790758910800",
+        "action": "Công bố đáp án câu 1: B. Loại 66 thí sinh trả lời sai/không trả lời.",
+        "timestamp": 1790758910800,
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790758907708,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Khóa nhận đáp án câu 1",
+        "id": "log-1790758907708"
+      },
+      {
+        "action": "Khóa nhận đáp án câu 1",
+        "id": "log-1790758904778",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790758904778
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Cập nhật thông tin thí sinh: Nguyễn Văn Thực Tế (10A1 - SBD-01)",
+        "timestamp": 1790758106856,
+        "id": "log-1790758106856"
+      },
+      {
+        "action": "Bắt đầu đếm ngược 15s cho câu 1",
+        "timestamp": 1790757398468,
+        "id": "log-1790757398468",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "id": "log-1790757369459",
+        "action": "Khởi tạo 66 thí sinh đại diện cho 33 lớp THPT 25-10",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790757369459
+      },
+      {
+        "id": "log-1790757368461",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790757368461,
+        "action": "Khởi tạo 66 thí sinh đại diện cho 33 lớp THPT 25-10"
+      },
+      {
+        "id": "log-1790757366689",
+        "action": "Khởi tạo 66 thí sinh đại diện cho 33 lớp THPT 25-10",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790757366689
+      },
+      {
+        "id": "log-1790741764910",
+        "timestamp": 1790741764910,
+        "performedBy": "Ban Tổ Chức",
+        "action": "Đã xóa toàn bộ danh sách thí sinh để chuẩn bị tải danh sách 66 thí sinh chính thức"
+      },
+      {
+        "action": "Công bố đáp án câu 1: B. Loại 2 thí sinh trả lời sai/không trả lời.",
+        "id": "log-1790741764898",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790741764898
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790741764884,
+        "id": "log-1790741764884",
+        "action": "Bắt đầu đếm ngược 15s cho câu 1"
+      },
+      {
+        "action": "Thêm thí sinh: Nguyễn Văn Thử Nghiệm (10A1 - SBD-99)",
+        "timestamp": 1790741764874,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790741764874"
+      },
+      {
+        "id": "log-1790741764859",
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790741764859
+      },
+      {
+        "timestamp": 1790741493067,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790741493067",
+        "action": "Chuyển sang câu hỏi số 5"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Tổng kết câu 4: 1 thí sinh bị loại",
+        "timestamp": 1790741490868,
+        "id": "log-1790741490868"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Công bố đáp án câu 4: B",
+        "timestamp": 1790741483298,
+        "id": "log-1790741483298"
+      },
+      {
+        "id": "log-1790741478447",
+        "action": "Khóa nhận đáp án câu 4",
+        "timestamp": 1790741478447,
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790741462013,
+        "action": "Bắt đầu đếm ngược 15s cho câu 4",
+        "id": "log-1790741462013"
+      },
+      {
+        "id": "log-1790741452642",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Chuyển sang câu hỏi số 4",
+        "timestamp": 1790741452642
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "action": "Tổng kết câu 3: 0 thí sinh bị loại",
+        "timestamp": 1790741449762,
+        "id": "log-1790741449762"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790741444868",
+        "action": "Công bố đáp án câu 3: Đúng",
+        "timestamp": 1790741444868
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790741442643,
+        "id": "log-1790741442643",
+        "action": "Khóa nhận đáp án câu 3"
+      },
+      {
+        "timestamp": 1790741431582,
+        "id": "log-1790741431582",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Bắt đầu đếm ngược 15s cho câu 3"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790741425853,
+        "action": "Chuyển sang câu hỏi số 3",
+        "id": "log-1790741425853"
+      },
+      {
+        "timestamp": 1790741413130,
+        "action": "Thí sinh Nguyễn Văn A (10A7) tham gia phòng",
+        "performedBy": "Hệ thống",
+        "id": "log-1790741413131"
+      },
+      {
+        "action": "Công bố đáp án câu 2: C",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790741262956",
+        "timestamp": 1790741262956
+      },
+      {
+        "id": "log-1790741253169",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790741253169,
+        "action": "Khóa nhận đáp án câu 2"
+      },
+      {
+        "id": "log-1790741245088",
+        "timestamp": 1790741245088,
+        "action": "Bắt đầu đếm ngược 15s cho câu 2",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790741238891,
+        "id": "log-1790741238891",
+        "action": "Chuyển sang câu hỏi số 2",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "action": "Tổng kết câu 1: 0 thí sinh bị loại",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790741230297,
+        "id": "log-1790741230297"
+      },
+      {
+        "timestamp": 1790741224147,
+        "id": "log-1790741224147",
+        "action": "Công bố đáp án câu 1: B",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "timestamp": 1790741219111,
+        "id": "log-1790741219111",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Khóa nhận đáp án câu 1"
+      },
+      {
+        "timestamp": 1790741176412,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790741176412",
+        "action": "Bắt đầu đếm ngược 15s cho câu 1"
+      },
+      {
+        "timestamp": 1790739951388,
+        "performedBy": "Hệ thống",
+        "id": "log-1790739951388",
+        "action": "Thí sinh Nguyễn Văn A (10A1) tham gia phòng"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790739907154",
+        "action": "Chuyển sang câu hỏi số 2",
+        "timestamp": 1790739907154
+      },
+      {
+        "action": "Tổng kết câu 1: 66 thí sinh bị loại",
+        "timestamp": 1790739906136,
+        "id": "log-1790739906136",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "id": "log-1790739905038",
+        "performedBy": "Ban Tổ Chức",
+        "action": "Công bố đáp án câu 1: B",
+        "timestamp": 1790739905038
+      },
+      {
+        "id": "log-1790739902894",
+        "action": "Khóa nhận đáp án câu 1",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790739902894
+      },
+      {
+        "action": "Bắt đầu đếm ngược 15s cho câu 1",
+        "timestamp": 1790739134496,
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790739134496"
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790738855406",
+        "action": "Khởi tạo 66 thí sinh đại diện cho 33 lớp THPT 25-10",
+        "timestamp": 1790738855406
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790737717101",
+        "timestamp": 1790737717101,
+        "action": "Đặt lại trạng thái ban đầu của cuộc thi"
+      },
+      {
+        "id": "log-1790737710086",
+        "action": "Tổng kết câu 1: 2 thí sinh bị loại",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790737710086
+      },
+      {
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790737710066",
+        "action": "Công bố đáp án câu 1: B",
+        "timestamp": 1790737710066
+      },
+      {
+        "action": "Khóa nhận đáp án câu 1",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790737710049,
+        "id": "log-1790737710049"
+      },
+      {
+        "timestamp": 1790737701564,
+        "action": "Bắt đầu đếm ngược 15s cho câu 1",
+        "id": "log-1790737701564",
+        "performedBy": "Ban Tổ Chức"
+      },
+      {
+        "action": "Tạo 20 thí sinh giả lập phục vụ tập dượt Demo",
+        "performedBy": "Ban Tổ Chức",
+        "id": "log-1790737692402",
+        "timestamp": 1790737692402
+      },
+      {
+        "action": "Khởi tạo phòng thi RCV2510",
+        "performedBy": "Ban Tổ Chức",
+        "timestamp": 1790737681997,
+        "id": "log-1",
+        "details": "Hệ thống đã sẵn sàng đón thí sinh"
+      }
+    ],
+    "createdAt": 1790737681997,
+    "currentQuestionIndex": 0,
+    "title": "RUNG CHUÔNG VÀNG – TRƯỜNG THPT 25-10",
+    "rescues": [],
+    "rules": {
+      "eliminateOnWrong": true,
+      "allowTiebreaker": true,
+      "eliminateOnNoAnswer": true,
+      "requirePreRegistration": false,
+      "showExplanation": true,
+      "allowRescue": true,
+      "lockRoomOnStart": false,
+      "autoNextQuestion": false,
+      "showCorrectAnswer": true,
+      "allowAnswerChange": false
+    },
+    "gameState": "LOCKED",
+    "answers": {},
+    "questionStartTime": 1790837440463
+  }
+}

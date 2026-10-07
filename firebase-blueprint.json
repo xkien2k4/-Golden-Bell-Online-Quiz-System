@@ -1,0 +1,63 @@
+{
+  "entities": {
+    "CompetitionState": {
+      "title": "CompetitionState",
+      "description": "Full state of a Rung Chuong Vang competition",
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier"
+        },
+        "title": {
+          "type": "string",
+          "description": "Title of competition"
+        },
+        "roomCode": {
+          "type": "string",
+          "description": "Room join code"
+        },
+        "status": {
+          "type": "string",
+          "description": "Status"
+        },
+        "gameState": {
+          "type": "string",
+          "description": "Game State"
+        },
+        "currentQuestionIndex": {
+          "type": "number",
+          "description": "Question index"
+        },
+        "questionStartTime": {
+          "type": "number",
+          "description": "Start time"
+        },
+        "questionEndTime": {
+          "type": "number",
+          "description": "End time"
+        },
+        "winnerId": {
+          "type": "string",
+          "description": "Winner ID"
+        },
+        "updatedAt": {
+          "type": "number",
+          "description": "Last updated"
+        }
+      },
+      "required": [
+        "id",
+        "roomCode",
+        "status",
+        "gameState"
+      ]
+    }
+  },
+  "firestore": {
+    "/competitions/{competitionId}": {
+      "schema": "CompetitionState",
+      "description": "Competition state records"
+    }
+  }
+}
